@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.footer{
+    padding: 20px 30px;
+    width: 100%;
+    background: #ecf2f7;
+}
+.footer .container{
+    max-width: 100%;
+   
+}
+.footer .container .detail{
+    font-size: 30px;
+}
